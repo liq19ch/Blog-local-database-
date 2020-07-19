@@ -5,6 +5,8 @@ This is a template of a personal website. It can compose posts by entering the c
 ## Techonologies
 * Mongoose
 * Express
+* Ejs
+* Body-parser
 * Node.js
 * HTML
 * CSS
