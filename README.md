@@ -1,5 +1,5 @@
 # Blog-local-database
-## An personal Blog Website Template
+## An personal blog website template
 This is a template of a personal website. It can compose posts by entering the certain address. And stores the posts in MongoDB local database. Users can access to the article page by clicking "Read more..".
 
 ## Techonologies
@@ -10,6 +10,7 @@ This is a template of a personal website. It can compose posts by entering the c
 * Node.js
 * HTML
 * CSS
+* JavaScripts
 
 ## Setup
 Open MongoDB service:
