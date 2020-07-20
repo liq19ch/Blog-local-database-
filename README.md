@@ -23,5 +23,5 @@ $ node app.js
 ```
 Open this site in: localhost:3000
 
-## Usage
+## Usage (Screenshots illustration)
 Please refer to "Intro.pdf".
