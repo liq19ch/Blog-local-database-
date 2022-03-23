@@ -1,16 +1,14 @@
-# Blog-local-database
-## An personal blog website template
-This is a template of a personal website. It can compose posts by entering the certain address. And stores the posts in MongoDB local database. Users can access to the article page by clicking "Read more..".
+# Discussion dashboard
+## An discussion dashboard
+It allows user to create accts or uses Google acct (Pending..) to log-in. Users can compose posts and publish and leave comments (Pending..).
 
 ## Techonologies
 * Mongoose
 * Express
-* Ejs
-* Body-parser
+* EJS
 * Node.js
 * HTML
 * CSS
-* JavaScripts
 
 ## Setup
 Open MongoDB service:
@@ -22,6 +20,3 @@ Run the main app:
 $ node app.js
 ```
 Open this site in: localhost:3000
-
-## Usage (Screenshots illustration)
-Please refer to "Intro.pdf".
